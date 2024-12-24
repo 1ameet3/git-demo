@@ -12,3 +12,4 @@ git clone xxx
 ```
 npm install
 ```
+### fighting!
