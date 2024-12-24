@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GitDemo
 
 #### 介绍
@@ -35,3 +36,19 @@ git demo tql
 4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
 5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
 6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+=======
+# 项目描述
+## 一、项目说明
+项目是一个github的测试项目
+
+## 二、运行方法
+clone项目
+```
+git clone xxx
+```
+
+运行项目
+```
+npm install
+```
+>>>>>>> origin/main
